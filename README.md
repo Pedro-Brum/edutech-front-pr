@@ -1,2 +1,2 @@
 # edutech-front-pr
-Repositório de projetos da trilha de front-end do Eduteche
+Repositório de projetos da trilha de front-end do Edutech
